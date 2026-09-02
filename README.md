@@ -9,7 +9,6 @@ The main objective of this project is to transform raw ride data into meaningful
 
 
 ## 🎯 Project Objectives
-
 - Analyze overall ride booking performance
 - Track completed and lost bookings
 - Analyze revenue generated from rides
@@ -99,6 +98,11 @@ It helps identify locations with higher booking activity and provides insights i
 - Vehicle-level analysis helps identify the contribution of each vehicle category.
 
 
+📷 Dashboard Preview
+
+The project includes dashboard screenshots links covering:
+https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
+
 
 ## 📂 Project Structure
 
@@ -123,11 +127,6 @@ uber-data-analytics-powerbi/
 └── Documentation/
     └── Project_Notes.md
 
-📷 Dashboard Preview
-
-The project includes dashboard screenshots links covering:
-
- (https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf)
 
 🚀 How to Use
 
