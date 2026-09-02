@@ -9,6 +9,7 @@ The main objective of this project is to transform raw ride data into meaningful
 
 
 ## 🎯 Project Objectives
+
 - Analyze overall ride booking performance
 - Track completed and lost bookings
 - Analyze revenue generated from rides
