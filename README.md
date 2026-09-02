@@ -126,7 +126,7 @@ uber-data-analytics-powerbi/
 
 The project includes dashboard screenshots links covering:
 
- https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
+ (https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf)
 
 🚀 How to Use
 
