@@ -1,4 +1,4 @@
-# Uber Data Analytics Dashboard | Power BI
+# Uber Analysis Dashboard | Power BI
 
 ## 📊 Project Overview
 This project is an interactive **Uber Data Analytics Dashboard** developed using **Microsoft Power BI**.
