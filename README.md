@@ -89,7 +89,7 @@ It helps identify locations with higher booking activity and provides insights i
 
 
 
-📷 Dashboard Preview
+📷 Dashboard Screenshot here :
 
 The project includes dashboard screenshots links covering:
 https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
