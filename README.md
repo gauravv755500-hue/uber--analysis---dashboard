@@ -89,6 +89,12 @@ It helps identify locations with higher booking activity and provides insights i
 
 
 
+📷 Dashboard Preview
+
+The project includes dashboard screenshots links covering:
+https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
+
+
 ## 📈 Key Insights
 - **Auto** contributes the highest revenue among the displayed vehicle categories.
 - **UPI** is the highest revenue-generating payment method.
@@ -98,10 +104,7 @@ It helps identify locations with higher booking activity and provides insights i
 - Vehicle-level analysis helps identify the contribution of each vehicle category.
 
 
-📷 Dashboard Preview
 
-The project includes dashboard screenshots links covering:
-https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
 
 
 ## 📂 Project Structure
