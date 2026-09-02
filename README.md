@@ -124,14 +124,9 @@ uber-data-analytics-powerbi/
 
 📷 Dashboard Preview
 
-The project includes dashboard screenshots links covering: https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
+The project includes dashboard screenshots links covering:
 
-Overview
-Vehicle Analysis
-Rider Analysis
-Revenue Analysis
-Location Analysis
-
+ https://github.com/gauravv755500-hue/uber--analysis---dashboard/blob/main/uber.pdf
 
 🚀 How to Use
 Download the .pbix file from the PowerBI folder.
